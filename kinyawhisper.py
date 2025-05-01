@@ -48,7 +48,7 @@ def match_answer(text):
 # Speak the answer using gTTS + pygame
 def speak(text, filename="response.mp3"):
     print("🗣️ Speaking:", text)
-    tts = gTTS(text=text, lang='rw')
+    tts = gTTS(text=text, lang='en')
     tts.save(filename)
 
     pygame.mixer.init()
