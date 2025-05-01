@@ -1,6 +1,8 @@
 🗣️ Kinyarwanda Voice Assistant
 
 A simple yet powerful voice assistant built with Python. It listens to your voice in Kinyarwanda, transcribes it using Google Speech Recognition, finds a matching response, and replies using speech via gTTS and pygame. It's your digital homie that understands the vibes 🇷🇼💬
+
+
 📦 Features
 
     🎙️ Voice Recording
